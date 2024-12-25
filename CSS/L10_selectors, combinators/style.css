@@ -1,0 +1,4 @@
+.block1 ~ p > span > a[href^="http:"] {
+	color: white;
+	background: red;
+}

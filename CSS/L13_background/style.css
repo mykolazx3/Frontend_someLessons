@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+}
+
+/*.test {
+	height: 1500px;
+	background: gray;
+	background-image: url('1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.test2 {
+	margin-top: 50px;
+	height: 300px;
+	background-image: url('cat.ico');
+	background-repeat: space;
+}*/
+
+.test {
+	height: 500px;
+	background: linear-gradient(to right, red, blue);
+}
